@@ -2,8 +2,11 @@
 
 This guide shows how I configured Claude Code to work with OpenCode Zen at no cost, and how the setup can be used as part of a workflow for security research and bug-bounty programs such as HackerOne.
 
-📺 Full video / walkthrough:
-"Watch the complete guide on YouTube"https://youtu.be/LIHGui4NYQE?si=EDuw3gCQ9vatxSvG 
+## 📺 Full Video / Walkthrough
+
+[![Claude Code Free with OpenCode Zen](https://img.youtube.com/vi/LIHGui4NYQE/maxresdefault.jpg)](https://youtu.be/LIHGui4NYQE)
+
+**▶️ Click the thumbnail to watch the complete guide on YouTube**
 
 ---
 
